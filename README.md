@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Science, Deep Learning**
 
-- 💬 Ask me about **Html, css, Python**
+- 💬 Ask me about **Python,Machine Learning**
 
 - 📫 How to reach me **rajnipun2003@gmail.com**
 
